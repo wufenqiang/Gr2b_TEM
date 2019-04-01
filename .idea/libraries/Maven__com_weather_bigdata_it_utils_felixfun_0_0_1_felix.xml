@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.weather.bigdata.it.utils:felixfun:0.0.1-felix">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/weather/bigdata/it/utils/felixfun/0.0.1-felix/felixfun-0.0.1-felix.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/weather/bigdata/it/utils/felixfun/0.0.1-felix/felixfun-0.0.1-felix-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/weather/bigdata/it/utils/felixfun/0.0.1-felix/felixfun-0.0.1-felix-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
